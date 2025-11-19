@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning on Frontend Web Development<br>
+I'm currently learning Web Development<br>
 
 
 ## 🌐 Socials:
